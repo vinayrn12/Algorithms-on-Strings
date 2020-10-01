@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600420096 source:d:\study\courses\coursera\algorithm specialization\strings\week 1\codes\trie\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<map>
+

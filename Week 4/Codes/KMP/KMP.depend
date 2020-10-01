@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600972343 source:d:\study\courses\coursera\algorithm specialization\strings\week 4\codes\kmp\main.cpp
+	<iostream>
+	<vector>
+	<string>
+

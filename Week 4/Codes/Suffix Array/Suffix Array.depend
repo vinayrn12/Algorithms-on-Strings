@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600977806 source:d:\study\courses\coursera\algorithm specialization\strings\week 4\codes\suffix array\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
